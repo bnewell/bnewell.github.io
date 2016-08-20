@@ -3,7 +3,7 @@ layout: post
 title: First Post
 ---
 
-# Testing the new static site generator Jekyll using Barry Clark's template Jekyll-Now
+Testing the new static site generator Jekyll using Barry Clark's template Jekyll-Now
 
 Bacon ipsum dolor amet pastrami tri-tip boudin chuck. Doner rump pig sausage pancetta kevin jowl venison ground round shank pork. Pork chop pork loin meatball spare ribs. Ham hock jerky capicola, andouille chicken pork pork loin doner. Boudin capicola picanha tenderloin landjaeger tongue jowl brisket.
 
