@@ -71,8 +71,10 @@ p {
 a {
   color: $limeGreen;
   cursor: pointer;
+  text-decoration: none;
   &:hover, &:active {
     color: $limeGreen;
+    text-decoration: underline;
   }
 }
 
