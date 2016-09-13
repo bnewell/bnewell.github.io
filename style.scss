@@ -116,8 +116,8 @@ img {
 }
 
 .date {
-  font-size: 1em;
-  font-style: italic;
+  font-size: .7em;
+  margin-top: -10px;
   color: $gray;
 }
 
@@ -262,10 +262,6 @@ nav {
     font-style: italic;
   }
 
-  h1 {
-    line-height: 1;
-  }
-  
   .comments {
     margin-top: 10px;
   }
