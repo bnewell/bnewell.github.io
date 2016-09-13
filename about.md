@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+This is the official Internet home of Benjamin S. Newell. I am a software developer living in Jacksonville, Florida. More information about me will be available in the near future.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ben@relabit.com](mailto:ben@relabit.com)
