@@ -116,6 +116,11 @@ img {
 }
 
 .date {
+  font-style: italic;
+  color: $gray;
+}
+
+.dateSubtitle{
   font-size: .7em;
   margin-top: -18px;
   color: $gray;
