@@ -23,7 +23,7 @@ A simple Andoird application that helps you create memorable but secure passphra
 # Papers
 
 #### [Is Diet Coke Bad For You?](http://relabit.com/diet-coke.html)  
-A short paper discussing the scientific merits of negative claims aimed towards Diet Coke.  
+A short paper discussing the scientific merits of the Diet Coke controversy.  
 
 
 ---
