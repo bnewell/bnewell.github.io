@@ -2,7 +2,7 @@
 layout: post
 title: Markdown helps you KISS
 ---
-Writing articles and blog posts has never been so easy. Using the markup language "Markdown" allows me to quickly write using "an easy-to-read, easy-to-write plain text format” [1]. Software then converts this Markdown to HTML and makes it compatible with the web. 
+Writing articles and blog posts has never been so easy. Using the markup language "Markdown", I'm able to quickly write using "an easy-to-read, easy-to-write plain text format” [Wikipedia](https://en.wikipedia.org/wiki/Markdown). Software can then convert it directly into HTML. 
 
 I think I may have been one of the last people on Earth still writing articles directly using HTML. I knew it was inefficient but I wanted that control that writing HTML gives you. And it does give you absolute control, but it is also absolutely time consuming. 
 
@@ -12,7 +12,7 @@ After spending some time formatting various pages and posts on my new blog it fi
 
 For example, I wrote my [Is Diet Coke Bad For You?](http://www.relabit.com/diet-coke.html) directly in HTML. This is what the ingredients list looks like in HTML:
 
-~~~~HTML
+{% highlight html %}
 <p>
     <ul>
 	    <li>Carbonated water</li>
@@ -25,7 +25,7 @@ For example, I wrote my [Is Diet Coke Bad For You?](http://www.relabit.com/diet-
 		<li>Natural Flavor</li>
 	</ul>
 </p>
-~~~~
+{% endhighlight %}
 
 Which looks like this when rendered through a browser:
 
@@ -40,7 +40,7 @@ Which looks like this when rendered through a browser:
 
 A unordered list in HTML uses a lot of tags for something so simple, doesn't it? Now let's look at the same list in Markdown:
 
-~~~~Markdown
+{% highlight markdown %}
 * Carbonated water
 * Caramel Color	
 * Aspartame		
@@ -49,7 +49,7 @@ A unordered list in HTML uses a lot of tags for something so simple, doesn't it?
 * Caffeine
 * Citric Acid
 * Natural Flavor
-~~~~
+{% endhighlight %}
 
 This Markdown renders exactly the same list as the HTML above and it used 131 less characters to do it. If you apply this over an entire article, it's clear that an enormous amount of time can be saved by writing in Markdown.
 
