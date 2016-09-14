@@ -10,7 +10,7 @@ A free and simple to use collage creation tool designed for the desktop to combi
 An Android application for the local surf report provided by North Florida lifestyle media company VoidLive.    
 
 #### [Powerball Simulator](http://relabit.com/powerball)   
-A fun way for someone to get the thrill of playing Powerball without having to waste any money. If you let the computer play for you, you will quickly realize how badly the odds are stacked against you. [*[Github](https://www.github.com/bnewell/powerball)*]
+A fun way for someone to get the thrill of playing Powerball without having to waste any money. If you let the computer play for you, you will quickly realize how badly the odds are stacked against you. [[Github](https://www.github.com/bnewell/powerball)]
 
 #### [TDEE Calculator](http://relabit.com/tdee) 
 A small tool that helps calculate your Total Daily Energy Expenditure (TDEE) for the purpose of setting dietary goals.  
@@ -28,7 +28,8 @@ A short paper discussing the scientific merits of negative claims aimed towards 
 
 ---
 
-# Videos       
+# Videos 
+
 #### [How To: Change a Wheel Bearing](https://www.youtube.com/watch?v=LBmKBWbB8AM)  
 A video walkthrough showing how to replace a wheel bearing on a 2000 Lexus ES300. 
 
