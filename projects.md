@@ -3,6 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+> Test : this should be a block quote.. no reason not to be
 
 **AutoCollage**  
 > A free and simple to use collage creation tool designed for the desktop to combine many different images with minimal effort.    
