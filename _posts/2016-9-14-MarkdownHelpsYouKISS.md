@@ -56,5 +56,3 @@ This Markdown renders exactly the same list as the HTML above and it used 131 le
 I'm a little ashamed and embarrassed that it took me this long to realize how convenient blogging in Markdown can be. But I guess I should be happy with my new found speed and blogging power. In the future I will do better and adopt simple solutions sooner. Markdown really does make you KISS (Keep It Simple Stupid) better.
 
 Also, if you got this far and are also still writing articles in HTML, then I highly recommend switching over to Markdown. There are a bunch free online tools that will convert your Markdown in realtime to help you visualize and learn the tags quickly. One of the converters I've used with success is [Dillinger](http://dillinger.io).
-
-[1] ["Markdown" on Wikipedia](https://en.wikipedia.org/wiki/Markdown)
