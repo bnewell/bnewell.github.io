@@ -18,12 +18,14 @@ permalink: /projects/
 * [Google Play](https://play.google.com/store/apps/details?id=projects.sjp&hl=en)  
 
 **Powerball Simulator**  
+ 
 >A fun way someone to get the thrill of playing Powerball without having to waste any money. If you let the computer play for you, you will quickly realize how badly the odds are stacked against you.  
 
 * [Project Website](http://relabit.com/powerball)  
 * [Github](https://www.github.com/bnewell/powerball)
 
 **TDEE Calculator** 
+ 
 >A small tool that helps calculate your Total Daily Energy Expenditure (TDEE) for the purpose of setting dietary goals.  
 
 * [Project Website](http://relabit.com/tdee)
