@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 **AutoCollage**  
-A free and simple to use collage creation tool designed for the desktop to combine many different images with minimal effort.    
+> A free and simple to use collage creation tool designed for the desktop to combine many different images with minimal effort.    
 
 * [Project Website](http://relabit.com/autocollage)  
 * [Github](https://www.github.com/bnewell/autocollage)  
