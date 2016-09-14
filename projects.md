@@ -32,7 +32,7 @@ A simple Andoird application that helps you create memorable but secure passphra
 
 * [Google Play](https://play.google.com/store/apps/details?id=com.relabit.spc&hl=en)
  
- 
+---
 
 # Papers
 
@@ -41,6 +41,7 @@ A short paper discussing the scientific merits of negative claims aimed towards 
 
 * [Paper](http://relabit.com/diet-coke.html) 
 
+---
 
 # Videos      
 **How To: Change a Wheel Bearing**  
