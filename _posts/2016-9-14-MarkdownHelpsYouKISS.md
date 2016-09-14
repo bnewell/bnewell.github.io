@@ -2,9 +2,9 @@
 layout: post
 title: Markdown helps you KISS
 ---
-Writing articles and blog posts has never been so easy. Using the markup language "Markdown", I'm able to quickly write using "an easy-to-read, easy-to-write plain text format” [Wikipedia](https://en.wikipedia.org/wiki/Markdown). Software can then convert it directly into HTML. 
+Writing articles and blog posts has never been so easy. Using the markup language "Markdown", I'm able to write structured articles using a few simple annotations without having to worry about any formatting or closing tags.
 
-I think I may have been one of the last people on Earth still writing articles directly using HTML. I knew it was inefficient but I wanted that control that writing HTML gives you. And it does give you absolute control, but it is also absolutely time consuming. 
+I think I may have been one of the last people on Earth still writing articles directly in HTML. I knew it was inefficient but I wanted that control that writing HTML gives you. And it does give you absolute control, but it is also absolutely time consuming. 
 
 Markdown is nothing new. It's been around for a little over 10 years but it wasn't until I switched to Jekyll a few days ago that I realized how convenient it *really* is. I have previous experience using Markdown through Github, Reddit, and a few other sites, but until now it was just a nuisance. 
 
