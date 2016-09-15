@@ -5,12 +5,13 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-
+      <!--
       <div class="thumb-image">
         {% if post.thumb %}
           {% include img.html src=post.thumb alt="Thumbnail For Post" %}
         {% endif %}
       </div>
+      -->
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       <div class="dateSubtitle">
