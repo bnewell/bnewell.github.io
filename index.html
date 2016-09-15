@@ -8,7 +8,7 @@ layout: default
       
       {% if post.thumb %}
         <div class="thumb-image">
-          <img src={% post.thumb %} alt="Thumbnail For Post" />
+          <img src="{{ post.thumb }}" alt="Thumbnail For Post" />
           <!-- {% include img.html src=post.thumb alt="Thumbnail For Post" %} -->
         </div>
       {% endif %}
