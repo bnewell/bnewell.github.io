@@ -15,15 +15,15 @@ For example, I wrote my [Is Diet Coke Bad For You?](http://www.relabit.com/diet-
 {% highlight html %}
 <p>
     <ul>
-	    <li>Carbonated water</li>
-		<li>Caramel Color</li>
-		<li>Aspartame
-		<li>Phosphoric Acid</li>
-		<li>Potassium Benzoate</li>
-		<li>Caffeine</li> 
-		<li>Citric Acid</li> 
-		<li>Natural Flavor</li>
-	</ul>
+    	<li>Carbonated water</li>
+	<li>Caramel Color</li>
+	<li>Aspartame</li>
+	<li>Phosphoric Acid</li>
+	<li>Potassium Benzoate</li>
+	<li>Caffeine</li> 
+	<li>Citric Acid</li> 
+	<li>Natural Flavor</li>
+    </ul>
 </p>
 {% endhighlight %}
 
@@ -51,7 +51,7 @@ A unordered list in HTML uses a lot of tags for something so simple, doesn't it?
 * Natural Flavor
 {% endhighlight %}
 
-This Markdown renders exactly the same list as the HTML above and it used 131 less characters to do it. If you apply this over an entire article, it's clear that an enormous amount of time can be saved by writing in Markdown.
+This Markdown renders exactly the same list as the HTML above and it uses 131 characters less to do it. If you apply this over an entire article, it's clear that an enormous amount of time can be saved by writing in Markdown.
 
 I'm a little ashamed and embarrassed that it took me this long to realize how convenient blogging in Markdown can be. But I guess I should be happy with my new found speed and blogging power. In the future I will do better and adopt simple solutions sooner. Markdown really does make you KISS (Keep It Simple Stupid) better.
 
