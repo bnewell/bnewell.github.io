@@ -247,6 +247,11 @@ nav {
 // .main
 //
 
+.thumb-image {
+  padding: 5px;
+  float: left;
+}
+
 blockquote {
   margin: 1.8em .8em;
   border-left: 2px solid $gray;
@@ -267,11 +272,7 @@ blockquote {
 }
 
 .post {
-  .thumb-image {
-    padding: 5px;
-    float: left;
-  }
-  
+
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
