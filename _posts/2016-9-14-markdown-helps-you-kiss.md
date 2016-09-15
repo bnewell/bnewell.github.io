@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Markdown helps you KISS
-thumb: /assets/MarkdownHelpsYouKISS/thumb.png
+thumb: /assets/markdown-helps-you-kiss/thumb.png
 ---
 Writing articles and blog posts has never been so easy. Using the markup language "Markdown", I'm able to write structured articles using a few simple annotations without having to worry about any formatting or closing tags.
 
