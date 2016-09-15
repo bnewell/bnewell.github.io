@@ -266,12 +266,14 @@ blockquote {
   border-bottom: none;
 }
 
-.post {
-	
-  .thumb {
+.posts { 
+  .thumb-image {
     padding: 5px;
     float: left;
   }
+}
+
+.post {
 	
   blockquote {
     margin: 1.8em .8em;
