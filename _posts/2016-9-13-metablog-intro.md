@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Metablog Intro
+thumb: /assets/metablog-intro/thumb.png
 ---
 They say to never blog about blogging (metablogging), but it just *feels* weird to not have an inaugural post about this new shiny blog of mine.
 
