@@ -4,19 +4,13 @@ layout: default
 
 <article class="post">
   
-  {% if page.thumb %}
-    <div class="thumb-image">
-      <img src="{{ page.thumb }}" alt="Thumbnail For Post" />
+  {% if page.header %}
+    <div class="post-header">
+      <img src="{{ page.header }}" alt="Header Image For Post" />
     </div>
   {% endif %}
   
   <h1>{{ page.title }}</h1>
-
-  {% if page.header %}
-    <div>
-      <img src="{{ page.header }}" alt="Header Image For Post" />
-    </div>
-  {% endif %}
 
   <div class="entry">
     {{ content }}
