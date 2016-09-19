@@ -1,6 +1,8 @@
 ---
 title: Mathemagical
 layout: post
+thumb: /assets/mathemagical/thumb.jpg
+header: /assets/mathemagical/geometry.jpg
 ---
 
 I was listening to Arthur Benjamin speak on Cara Santa Maria's podcast, Talk Nerdy, about his passion for mathematics. In it, he discussed a way to teach Algebra to students by first presenting them with a magic trick (Or mathemagic trick if you will). It goes like this: 
