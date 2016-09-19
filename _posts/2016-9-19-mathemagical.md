@@ -38,7 +38,7 @@ For people who already know Algrebra, this mathemagic trick is just a basic Alge
 
 {% highlight algebra %}
 ((2N + 10) / 2) - N
-{% end highlight %}
+{% endhighlight %}
 
 Which always equals 5 for every positive integer N. Like I said, very basic Algebra, but to someone who has never been introduced to Algebra, it is unsolvable. Until you learn the rules, it is simply gibberish. But this mathemagic trick could get a student to be eager to learn the power Algebra in just the short amount of time it takes to perform it.  
 
