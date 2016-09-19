@@ -12,6 +12,12 @@ layout: default
   
   <h1>{{ page.title }}</h1>
 
+  {% if page.header %}
+    <div>
+      <img src="{{ page.header }}" alt="Header Image For Post" />
+    </div>
+  {% endif %}
+
   <div class="entry">
     {{ content }}
   </div>
