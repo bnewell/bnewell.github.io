@@ -5,7 +5,7 @@ thumb: /assets/mathemagical/thumb.jpg
 header: /assets/mathemagical/geometry.jpg
 ---
 
-I was listening to Arthur Benjamin speak on Cara Santa Maria's podcast "Talk Nerdy" about his passion for mathematics.[1] In it, he discusses a way to teach Algebra to students by first presenting them with a mathemagic trick. It goes like this: 
+I was listening to Arthur Benjamin speak on Cara Santa Maria's podcast "Talk Nerdy" about his passion for mathematics. [1] In it, he discusses a way to teach Algebra to students by first presenting them with a mathematical (mathemagical, if you will) trick. It goes like this: 
 
 
 >Pick a number between 1 - 10, but don't tell me the number. 
