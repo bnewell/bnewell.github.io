@@ -3,10 +3,10 @@ title: If you're bored, you're doing it wrong
 layout: post
 thumb: /assets/if-youre-bored-youre-doing-it-wrong/thumb.jpg
 header: /assets/if-youre-bored-youre-doing-it-wrong/spacex.jpg
+excerpt_separator: <!--more-->
 ---
 In the current days of our fast and expansive Internet, it is very easy to entertain yourself and find exciting things to do. Yet, I see so many people who can't find anything interesting to do online. Why are people so bored?  I'm going to take a wild guess and say it probably has to do with *how* they are spending their time. 
-  
-  
+<!--more-->
 Before the Internet, there were many areas of knowledge and expertise that were completely off limits to the layperson. There simply wasn't a way to access the bleeding edge research being done at top institutions.  
  
 Nowadays, once something profound is discovered, found, or completed we hear about it almost instantaneously. We *literally* have [live updates](http://www.esa.int/Our_Activities/Operations/Live_updates_Rosetta_mission_comet_landing) from ESA when they are attempting to land a tiny spacecraft that left Earth 10 years ago on a comet that's traveling 84,000 miles through the solar system. It's extremely exciting and a huge privilege to live in such times. 
