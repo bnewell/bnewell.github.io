@@ -5,12 +5,10 @@ layout: default
 <article class="post">
   
   {% for static_file in site.static_files %}
-    <p>static_file = {{static_file.path}}</p>
     {% capture post_header %}/assets{{page.id}}/header.jpg{% endcapture %}
-    <p>post_header = {{post_header}}</p>
     {% if static_file.path == post_header %}
       <div class="post-header">
-        <img src="/assets/{{ page.id }}/header.jpg" alt="Header Image For Post" />
+        <img src={{post_header}} alt="Header Image For Post" />
       </div>
     {% endif %}
   {% endfor %}
