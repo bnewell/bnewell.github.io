@@ -1,7 +1,6 @@
 ---
 layout: post
 title: We are mites
-header: true
 excerpt_separator: <!--more-->
 ---
 There's a quote that I've always remembered due to it's ability to reduce something that's almost unimaginable into something actually tangible. There was a recent discovery by NASA, via the Hubble telescope, that indicates there are 10 times more galaxies in our observable universe than previously thought. [1] This discovery made me immediately think of this quote. 
