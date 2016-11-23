@@ -5,12 +5,11 @@ layout: default
 <article class="post">
   
   {% for static_file in site.static_files %}
-    {% if static_file.path == '/assets/' + page.id + '/header.jpg' %}
+    {% if static_file.path == '/assets/' + {{page.id}} + '/header.jpg' %}
       <div class="post-header">
         <img src="/assets/{{ page.id }}/header.jpg" alt="Header Image For Post" />
       </div>
     {% endif %}
-  <p>static_file.path = {{static_file.path}}</p>
   {% endfor %}
   
   <!--
