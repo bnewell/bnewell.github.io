@@ -5,6 +5,9 @@ layout: default
 <article class="post">
   
   {% for static_file in site.static_files %}
+    <p>static_file = {{static_file}}</p>
+    {% my_path = '/assets/ + page.id + '/header.jpg' %}
+  <p>my_path = {{my_path}}</p>
     {% if static_file.path == '/assets/'.concat(page.id).concat('/header.jpg') %}
       <div class="post-header">
         <img src="/assets/{{ page.id }}/header.jpg" alt="Header Image For Post" />
