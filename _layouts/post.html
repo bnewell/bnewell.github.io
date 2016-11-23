@@ -6,7 +6,7 @@ layout: default
   
   {% for static_file in site.static_files %}
     <p>static_file = {{static_file.path}}</p>
-    {% capture post_header %}/assets/{{page.id}}/header.jpg{% endcapture %}
+    {% capture post_header %}/assets{{page.id}}/header.jpg{% endcapture %}
     <p>post_header = {{post_header}}</p>
     {% if static_file.path == post_header %}
       <div class="post-header">
