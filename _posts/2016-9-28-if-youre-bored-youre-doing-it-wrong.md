@@ -1,7 +1,6 @@
 ---
 title: If you're bored, you're doing it wrong
 layout: post
-header: t
 excerpt_separator: <!--more-->
 ---
 In the current days of fast Internet speeds and extensive free content, it is very easy to entertain yourself and find exciting things to do. Yet, I see so many people who can't find anything interesting to do online. Why are people so bored?  I'm going to take a wild guess and say it probably has to do with *how* they are spending their time. 
