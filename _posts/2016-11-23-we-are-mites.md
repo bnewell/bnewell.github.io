@@ -1,8 +1,7 @@
 ---
 layout: post
 title: We are mites
-thumb: /assets/we-are-mites/thumb.jpg
-header: /assets/we-are-mites/galaxies.jpg
+header: true
 excerpt_separator: <!--more-->
 ---
 There's a quote that I've always remembered due to it's ability to reduce something that's almost unimaginable into something actually tangible. There was a recent discovery by NASA, via the Hubble telescope, that indicates there are 10 times more galaxies in our observable universe than previously thought. [1] This discovery made me immediately think of this quote. 
@@ -16,14 +15,17 @@ This quote sums up our lack of understanding in a way that we do understand. We 
  
 In some instances we feel like we know everything. We know how to split atoms to create atomic bombs. We know how to create chemicals to destroy microscopic organisms that are trying to kill us. We know how to build ships that travel through space and land on the moon. We know how to enhance our vision in order to see light years away. We know how to land robots on distant planets and communicate with them. But in regards to total existence, we know absolutely nothing. We aren't just mites on an ant's ass, we are the electrons orbiting the nucleus in a carbon atom that makes up the DNA in the cells of the mite that's sitting on the ant's ass trying to understand Google. 
 
+## Here are a few resources that can help give some perspective of our size relative to the Universe.
 
 ![Earth compared to Stars](/assets/we-are-mites/earthToStars.jpg "Earth compared to Stars")  
 
 
-Interactive perspective - http://htwins.net/scale2/ 
+[Interactive perspective](http://htwins.net/scale2/) (External link)
 
 
-[![Video of the scale of the Universe](http://img.youtube.com/vi/RVBp5apTwYE/0.jpg)](http://www.youtube.com/watch?v=RVBp5apTwYE "Scale of the Universe") 
-
+[![Video of the scale of the Universe](http://img.youtube.com/vi/RVBp5apTwYE/0.jpg)](http://www.youtube.com/watch?v=RVBp5apTwYE "Scale of the Universe") - A video showing the scale of the Universe.
  
+ 
+ References 
+  
 [1] NASA. Hubble Reveals Observable Universe Contains 10 Times More Galaxies Than Previously Thought. NASA website. http://www.nasa.gov/feature/goddard/2016/hubble-reveals-observable-universe-contains-10-times-more-galaxies-than-previously-thought. October 13, 2016. Accessed October 14, 2016.
