@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Picture of Ben before Ceremony](https://github.com/bnewell/bnewell.github.io/blob/master/assets/about/BenjaminSNewell-sm.jpg "10 minutes before the ceremony")
+![Picture of Ben before Ceremony](/assets/about/BenjaminSNewell-sm.jpg "10 minutes before the ceremony")
 
 Relabit is the official Internet home of Benjamin S. Newell. Who is Ben Newell? Well, for one, I am someone who doesn't typically refer to himself in the third person. So we'll start by nixing that.
 
