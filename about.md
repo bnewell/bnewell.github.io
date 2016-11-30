@@ -6,9 +6,12 @@ permalink: /about/
 
 ![Picture of Ben before Ceremony](https://github.com/bnewell/bnewell.github.io/blob/master/assets/about/BenjaminSNewell-sm.jpg "10 minutes before the ceremony")
 
-Relabit is the official Internet home of Benjamin S. Newell. Who is Benjamin Newell? Well, for one, I am someone who doesn't typically refer to himself in the third person. So we'll start by nixing that.
+Relabit is the official Internet home of Benjamin S. Newell. Who is Ben Newell? Well, for one, I am someone who doesn't typically refer to himself in the third person. So we'll start by nixing that.
 
-I am a software developer living in Jacksonville, Florida. While developing software is my profession and a hobby, I also make time for many other things. I enjoy spending time with my wife, lounging on the beach, surfing tubular waves, reading good books, learning new things, solving puzzles, and creating useful things. I am always up for a new challenge or adventure. 
+I am a software developer living in Jacksonville, Florida. Developing software is my passion, profession, and hobby but I also make time for many other activities. I enjoy spending time with my wife, lounging on the beach, surfing tubular waves, reading good books, learning about the world and human existence, solving logic puzzles, playing fetch with my dog, eating tacos, and creating useful things. 
+
+I am always up for a new challenge or adventure. 
+
 
 ### Contact me
 
