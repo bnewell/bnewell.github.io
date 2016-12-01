@@ -268,13 +268,12 @@ blockquote {
   a {
 	color: $gray;
 	text-decoration: none;
-	cursor: pointer;
-	  
-	  .read-more {
-    		text-transform: uppercase;
-    		font-size: 8px;
-    		color: $lightGray;
-  	  }
+	cursor: pointer;	  
+  }
+	
+  .read-more {
+	font-size: 8px;
+	color: $lightGray;
   }
 
 }
