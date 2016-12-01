@@ -271,11 +271,6 @@ blockquote {
 	cursor: pointer;	  
   }
 	
-  .read-more {
-	font-size: 12px;
-	color: $lightGray;
-  }
-
 }
 
 .posts > .post:last-child {
@@ -306,7 +301,7 @@ blockquote {
   .read-more {
     text-transform: uppercase;
     font-size: 12px;
-    color: $lightGray;
+    color: $gray;
 	  
   }
 }
