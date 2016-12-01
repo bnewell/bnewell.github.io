@@ -3,24 +3,27 @@ layout: default
 ---
 
 <div class="posts">
+  
   {% for post in site.posts %}
+  
     <a href="{{ site.baseurl }}{{ post.url }}">
-    <article class="post">
-      
-      <h1>{{ post.title }}</h1>
-      <div class="dateSubtitle">
-        <p>{{ post.date | date: "%B %e, %Y" }}</p>
-        <!--<p>{{ post.date | date: "%m/%d/%Y" }}</p> -->
-      </div>
-      
+      <article class="post">
 
-        <div class="thumb-image">
-          <img src="/assets/{{post.id}}/thumb.jpg" alt="Thumbnail For Post" />
-        </div>
+          <h1>{{ post.title }}</h1>
 
-      <div class="entry">
-        <p>{{ post.excerpt }}</p>
-      </div>
-    </article></a>
+          <div class="dateSubtitle">
+            <p>{{ post.date | date: "%B %e, %Y" }}</p>
+          </div>
+
+          <div class="thumb-image">
+            <img src="/assets/{{post.id}}/thumb.jpg" alt="Thumbnail For Post" />
+          </div>
+
+          <div class="entry">
+            <p>{{ post.excerpt }}</p>
+          </div>
+
+      </article>
+    </a>
   {% endfor %}
 </div>
