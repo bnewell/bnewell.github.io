@@ -15,14 +15,12 @@ layout: default
       
 
         <div class="thumb-image">
-          <a href="{{ site.baseurl }}{{ post.url }}"><img src="/assets/{{post.id}}/thumb.jpg" alt="Thumbnail For Post" /></a>
+          <img src="/assets/{{post.id}}/thumb.jpg" alt="Thumbnail For Post" />
         </div>
 
       <div class="entry">
         <p>{{ post.excerpt }}</p>
       </div>
-      
-      <p><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More...</a></p>
     </article></a>
   {% endfor %}
 </div>
