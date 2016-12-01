@@ -8,19 +8,20 @@ layout: default
   
       <article class="post">
           <a href="{{ site.baseurl }}{{ post.url }}">
-          <h1>{{ post.title }}</h1>
+            <h1>{{ post.title }}</h1>
 
-          <div class="dateSubtitle">
-            <p>{{ post.date | date: "%B %e, %Y" }}</p>
-          </div>
+            <div class="dateSubtitle">
+              <p>{{ post.date | date: "%B %e, %Y" }}</p>
+            </div>
 
-          <div class="thumb-image">
-            <img src="/assets/{{post.id}}/thumb.jpg" alt="Thumbnail For Post" />
-          </div>
+            <div class="thumb-image">
+              <img src="/assets/{{post.id}}/thumb.jpg" alt="Thumbnail For Post" />
+            </div>
 
-          <div class="entry">
-            <p>{{ post.excerpt }}</p>
-          </div>
+            <div class="entry">
+              <p>{{ post.excerpt }}</p>
+            </div>
+            <span class="read-more">... Read More -></span>
           </a>
       </article>
   {% endfor %}
