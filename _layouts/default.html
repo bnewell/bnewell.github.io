@@ -26,25 +26,23 @@
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
             <p class="site-description">{{ site.description }}</p>
           </div>
-
-          <p> test { page.url }</p>
-          
+         
           <nav>
             {% if page.url == "/" %}
               <a href="{{ site.baseurl }}/" class="current-page">Home</a>
-            {%else}
+            {% else %}
               <a href="{{ site.baseurl }}/">Home</a>
             {% endif %}
 
             {% if page.url == "/about" %}
               <a href="{{ site.baseurl }}/about" class="current-page">About</a>
-            {%else}
+            {% else %}
               <a href="{{ site.baseurl }}/about">About</a>
             {% endif %}
             
             {% if page.url == "/projects" %}
               <a href="{{ site.baseurl }}/projects" class="current-page">Projects</a>
-            {%else}
+            {% else %}
               <a href="{{ site.baseurl }}/projects">Projects</a>
             {% endif %}
           </nav>
