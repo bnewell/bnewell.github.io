@@ -223,8 +223,10 @@ nav {
   font-family: $helveticaNeue;
   font-size: 18px;
 
+	.current-page{
+		color: $blue;
+	}
 	
-
   @include mobile {
     float: none;
     margin-top: 9px;
@@ -238,10 +240,6 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
-  
-    &:active{
-	  border: 1px solid #000;
-    }
 	  
     @include mobile {
       margin: 0 10px;
