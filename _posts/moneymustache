@@ -1,0 +1,41 @@
+<?php
+
+require "simple_html_dom.php";
+
+function getPost($postURL)
+{
+	$post = $postURL;
+	$html = file_get_html($post);
+	$postTitle = $html->find('h1.headline');
+	$postContent = $html->find('div.post_content');
+	return $postTitle[0] . '<br />' . $postContent[0] . '<br />';
+}
+
+$html = file_get_html("http://www.mrmoneymustache.com/all-the-posts-since-the-beginning-of-time/");
+
+$allPosts = array();
+foreach($html->find('ul.history') as $ul)
+{
+	foreach($ul->find("li") as $li) 
+	{
+		foreach($li->find('a') as $link)
+		{
+			$allPosts[] = $link->href;
+		} 
+
+	}
+}
+
+$allPosts = array_reverse($allPosts);
+
+$firstFew = array_slice($allPosts, 0, count($allPosts) / 8);
+
+foreach($firstFew as $post)
+{
+	$contents = getPost($post);
+	echo $contents;
+	
+}
+
+
+?>
