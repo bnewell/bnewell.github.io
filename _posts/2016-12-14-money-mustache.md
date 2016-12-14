@@ -53,7 +53,7 @@ foreach($firstFew as $post){
 Because it runs on the PHP sandbox server, using their bandwidth to retrieve the blog posts instead of my own, 
 I end up saving quite a few bits. It's absolutely ingenious and I'm certain I'll be a retired millionaire any day now. 
 
-<insert phpfiddle bandwidth photo> 
+![PHPFiddle Home Bandwidth](/assets/money-mustache/phpFiddleHome.png "PHPFiddle Home Bandwidth")  
  
  
 The PHP sandbox I'm using is [PHPFiddle](http://www.phpfiddle.org) and it takes approximately 400KB to load the homescreen. 
@@ -61,7 +61,7 @@ It takes another 500KB to get the results from the script. So we'll be extremely
 the script on PHPFiddle and get the results we want. So the total amount of bandwidth we save is $$1GB - 1MB = 999MB$$. 
 That's almost a whole gigabyte saved!
 
-<insert money blog photo>
+![PHPFiddle Money Mustache](/assets/money-mustache/phpFiddleResults.png "PHPFiddle Money Mustache")  
 
 Comcast Xfinity has a data cap of 200GB, so that saves $$\frac{1}{200}$$ of my bandwidth. By not actually loading the 
 Mr. Money Mustache blog myself, I am saving roughly 10 cents per month. If I invest this money with an interest rate of 
