@@ -61,7 +61,7 @@ It takes another 500KB to get the results from the script. So we'll be extremely
 the script on PHPFiddle and get the results we want. So the total amount of bandwidth we save is $$1GB - 1MB = 999MB$$. 
 That's almost a whole gigabyte saved!
 
-![PHPFiddle Money Mustache](/assets/money-mustache/phpFiddleResults.png "PHPFiddle Money Mustache")  
+![PHPFiddle Money Mustache](/assets/money-mustache/phpFiddleResult.png "PHPFiddle Money Mustache Results")  
 
 Comcast Xfinity has a data cap of 200GB, so that saves $$\frac{1}{200}$$ of my bandwidth. By not actually loading the 
 Mr. Money Mustache blog myself, I am saving roughly 10 cents per month. If I invest this money with an interest rate of 
