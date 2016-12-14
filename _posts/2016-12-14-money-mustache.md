@@ -68,8 +68,10 @@ Mr. Money Mustache blog myself, I am saving roughly 10 cents per month. If I inv
 7% compounded yearly over 10 years, I can save $19.67! 
 
 $$A = P(1 + {\frac{r}{n}})^{nt}$$ 
-$$A = .10(1+{\frac{.07}{1}})^{(1)(10)}$$
-$$A = 19.67$$
+ 
+$$A = .10(1+{\frac{.07}{1}})^{(1)(10)}$$ 
+ 
+$$A = 19.67$$ 
 
  That's almost $20 whole real dollars saved over 10 years. I can smell the yacht already... I mean, uh, the savings.. yea.. the savings. 
  And retirement.
