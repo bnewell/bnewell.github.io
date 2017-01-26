@@ -4,7 +4,7 @@ title: Useful sites that go offline
 excerpt_separator: <!--more-->
 ---
 
-Isn't it sad when a site you periodically visit goes offline? I grew up in the 90s and 00s when sites were expected randomly shut down without any notice. It is nothing new, but it's always a little depressing. 
+Isn't it sad when a site you periodically visit goes offline? I grew up in the 90s and 00s when sites were expected to randomly shut down without any notice. It is nothing new, but it's always a little depressing. 
 
 When a big community like Geocities, one of the first places where users could create their own web pages for free, went offline in 2009 it didn't really bothered me. There were preclosure announcements, a closing day celebration, and proper postmortems made by bloggers and tech giants around the world. Also, big sites like these typically become stagnant over time and begin to stink up the Internet. It's for the best when the creators/maintainers of such sites take out the trash.
 <!--more-->
